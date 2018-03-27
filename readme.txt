@@ -4,3 +4,4 @@ third line.
 fourth line.
 feature first modified
 add merge
+master commit
