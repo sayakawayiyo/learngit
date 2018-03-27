@@ -2,4 +2,6 @@ Git is a version control system.
 Git is free software.
 third line.
 fourth line.
-master commit
+dev commit
+dev commit1
+dev commit2
