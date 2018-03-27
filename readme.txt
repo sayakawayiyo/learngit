@@ -3,3 +3,4 @@ Git is free software.
 third line.
 fourth line.
 feature first modified
+add merge
